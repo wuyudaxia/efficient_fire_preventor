@@ -17,4 +17,6 @@ We utilize a dataset of 2,700 aerial and ground-based RGB images sourced from pu
 
 ---
 
-![Wildfire Detection Concept](https://user-images.githubusercontent.com/your-username/your-repo/assets/wildfire_detection_example.jpg)
+![Wildfire Detection Concept](https://github.com/wuyudaxia/efficient_fire_preventor/blob/main/readme.webp)
+
+
